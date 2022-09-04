@@ -125,23 +125,23 @@ http://189.91.128.146:4444/udp/227.10.20.133:1234
 http://189.91.128.146:4444/udp/227.10.20.167:1234
 #EXTINF:-1 group-title="CANAIS", "NIKBR-HD" ,NIKBR-HD
 http://189.91.128.146:4444/udp/227.10.20.149:1234
-#EXTINF:-1 group-title="CANAIS", "PFC 2 HD" ,PFC 2 HD
+#EXTINF:-1 group-title="PREMIERE" ,PFC 2 HD
 http://189.91.128.146:4444/udp/227.10.20.104:1234
-#EXTINF:-1 group-title="CANAIS", "PFC 3 HD" ,PFC 3 HD
+#EXTINF:-1 group-title="PREMIERE" ,PFC 3 HD
 http://189.91.128.146:4444/udp/227.10.20.105:1234
 #EXTINF:-1 group-title="CANAIS", "PFC 4 HD" ,PFC 4 HD
 http://189.91.128.146:4444/udp/227.10.20.106:1234
-#EXTINF:-1 group-title="CANAIS", "PFC 5 HD" ,PFC 5 HD
+#EXTINF:-1 group-title="PREMIERE" ,PFC 5 HD
 http://189.91.128.146:4444/udp/227.10.20.107:1234
-#EXTINF:-1 group-title="CANAIS", "PFC 6 HD" ,PFC 6 HD
+#EXTINF:-1 group-title="PREMIERE" ,PFC 6 HD
 http://189.91.128.146:4444/udp/227.10.20.123:1234
 #EXTINF:-1 group-title="FILMES" ,PMCBR-HD
 http://189.91.128.146:4444/udp/227.10.20.140:1234
-#EXTINF:-1 group-title="CANAIS", "Premiere" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/premiere.png" ,Premiere
+#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/premiere.png" ,Premiere
 http://189.91.128.146:4444/udp/227.10.20.102:1234
-#EXTINF:-1 group-title="CANAIS", "Premiere 2" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/premiere.png" ,Premiere 2
+#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/premiere.png" ,Premiere 2
 http://189.91.128.146:4444/udp/227.10.20.104:1234
-#EXTINF:-1 group-title="CANAIS", "PREMIERE CLUBES HD" ,PREMIERE CLUBES HD
+#EXTINF:-1 group-title="PREMIERE",PREMIERE CLUBES HD
 http://189.91.128.146:4444/udp/227.10.20.102:1234
 #EXTINF:-1 group-title="CANAIS", "Prime SD" ,Prime SD
 http://189.91.128.146:4444/udp/227.10.20.114:1234
