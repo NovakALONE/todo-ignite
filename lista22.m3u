@@ -41,7 +41,7 @@ http://189.91.128.146:4444/udp/227.10.20.175:1234
 http://189.91.128.146:4444/udp/227.10.20.118:1234
 #EXTINF:-1 group-title="CANAIS", "Band News" ,Band News
 http://189.91.128.146:4444/udp/227.10.20.131:1234
-#EXTINF:-1 group-title="CANAIS", "Band Sports HD" ,Band Sports HD
+#EXTINF:-1 group-title="ESPORTES"  ,Band Sports HD
 http://189.91.128.146:4444/udp/227.10.20.119:1234
 #EXTINF:-1 group-title="CANAIS", "BLOOMBERG HD" ,BLOOMBERG HD
 http://189.91.128.146:4444/udp/227.10.20.161:1234
@@ -61,7 +61,7 @@ http://189.91.128.146:4444/udp/227.10.20.160:1234
 http://189.91.128.146:4444/udp/227.10.20.168:1234
 #EXTINF:-1 group-title="CANAIS ABERTO" ,CNT ISDB TV HD
 http://189.91.128.146:4444/udp/227.10.20.111:1234
-#EXTINF:-1 group-title="CANAIS", "COMBATE HD" ,COMBATE HD
+#EXTINF:-1 group-title="ESPORTES" ,COMBATE HD
 http://189.91.128.146:4444/udp/227.10.20.172:1234
 #EXTINF:-1 group-title="CANAIS", "Disc. Kids" ,Disc. Kids
 http://189.91.128.146:4444/udp/227.10.20.83:1234
@@ -79,33 +79,33 @@ http://189.91.128.146:4444/udp/227.10.20.177:1234
 http://189.91.128.146:4444/udp/227.10.20.90:1234
 #EXTINF:-1 group-title="CANAIS", "DISNEY ðŸ˜† HD" ,DISNEY ðŸ˜† HD
 http://189.91.128.146:4444/udp/227.10.20.110:1234
-#EXTINF:-1 group-title="CANAIS", "ESPN" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/LigaPortugalbwin.png" ,ESPN
+#EXTINF:-1 group-title="ESPORTES"  tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/LigaPortugalbwin.png" ,ESPN
 http://189.91.128.146:4444/udp/227.10.20.81:1234
-#EXTINF:-1 group-title="CANAIS", "ESPN 2" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/LigaPortugalbwin.png" ,ESPN 2
+#EXTINF:-1 group-title="ESPORTES"  tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/LigaPortugalbwin.png" ,ESPN 2
 http://189.91.128.146:4444/udp/227.10.20.128:1234
-#EXTINF:-1 group-title="CANAIS", "ESPN 2 HD" ,ESPN 2 HD
+#EXTINF:-1 group-title="ESPORTES" ,ESPN 2 HD
 http://189.91.128.146:4444/udp/227.10.20.153:1234
-#EXTINF:-1 group-title="CANAIS", "ESPN 3" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/LigaPortugalbwin.png" ,ESPN 3
+#EXTINF:-1 group-title="ESPORTES"  tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/LigaPortugalbwin.png" ,ESPN 3
 http://189.91.128.146:4444/udp/227.10.20.153:1234
-#EXTINF:-1 group-title="CANAIS", "ESPN 4" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/LigaPortugalbwin.png" ,ESPN 4
+#EXTINF:-1 group-title="ESPORTES"  tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/LigaPortugalbwin.png" ,ESPN 4
 http://189.91.128.146:4444/udp/227.10.20.116:1234
-#EXTINF:-1 group-title="CANAIS", "ESPN BR HD" ,ESPN BR HD
+#EXTINF:-1 group-title="ESPORTES"  ,ESPN BR HD
 http://189.91.128.146:4444/udp/227.10.20.81:1234
-#EXTINF:-1 group-title="CANAIS", "ESPN HD" ,ESPN HD
+#EXTINF:-1 group-title="ESPORTES"  ,ESPN HD
 http://189.91.128.146:4444/udp/227.10.20.128:1234
-#EXTINF:-1 group-title="CANAIS", "ESPN HD" ,ESPN HD
+#EXTINF:-1 group-title="ESPORTES"  ,ESPN HD
 http://189.91.128.146:4444/udp/227.10.20.152:1234
-#EXTINF:-1 group-title="CANAIS", "ESPN Int." ,ESPN Int.
+#EXTINF:-1 group-title="ESPORTES" ,ESPN Int.
 http://189.91.128.146:4444/udp/227.10.20.86:1234
 #EXTINF:-1 group-title="CANAIS ABERTO" ,Fashion HD
 http://189.91.128.146:4444/udp/227.10.20.113:1234
 #EXTINF:-1 group-title="CANAIS", "FISHTV-HD" ,FISHTV-HD
 http://189.91.128.146:4444/udp/227.10.20.117:1234
-#EXTINF:-1 group-title="CANAIS", "FOX Sports 2" ,FOX Sports 2
+#EXTINF:-1 group-title="ESPORTES" ,FOX Sports 2
 http://189.91.128.146:4444/udp/227.10.20.132:1234
-#EXTINF:-1 group-title="CANAIS", "FOX Sports 2" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/LigaPortugalbwin.png" ,FOX Sports 2
+#EXTINF:-1 group-title="ESPORTES"  tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/LigaPortugalbwin.png" ,FOX Sports 2
 http://189.91.128.146:4444/udp/227.10.20.132:1234
-#EXTINF:-1 group-title="CANAIS", "FOX SPORTS HD" ,FOX SPORTS HD
+#EXTINF:-1 group-title="ESPORTES" ,FOX SPORTS HD
 http://189.91.128.146:4444/udp/227.10.20.116:1234
 #EXTINF:-1 group-title="CANAIS ABERTO" ,Futura HD
 http://189.91.128.146:4444/udp/227.10.20.165:1234
