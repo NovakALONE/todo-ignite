@@ -30,6 +30,8 @@ http://189.91.128.146:4444/udp/227.10.20.115:1234
 #EXTINF:-1 group-title="FILMES" ,"TV 5 HD"
 http://189.91.128.146:4444/udp/227.10.20.163:1234
 #EXTINF:-1 group-title="FILMES" ,"TCM"
+#EXTINF:-1 group-title="FILMES" ,TruTV HD
+http://5ce.co:80/Eduardo9982/03901l99/21100
 http://189.91.128.146:4444/udp/227.10.20.124:1234
 #EXTINF:-1 group-title="FILMES" ,"WARNER HD"
 http://189.91.128.146:4444/udp/227.10.20.126:1234
