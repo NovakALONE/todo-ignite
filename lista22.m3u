@@ -19,11 +19,11 @@ http://189.91.128.146:4444/udp/227.10.20.140:1234
 http://189.91.128.146:4444/udp/227.10.20.127:1234
 #EXTINF:-1 group-title="FILMES" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/starchannel.png" ,	"STAR CHANNEL"
 http://189.91.128.146:4444/udp/227.10.20.139:1234
-#EXTINF:-1 group-title="FILMES","Studio Universal"
+#EXTINF:-1 group-title="FILMES" ,"Studio Universal"
 http://189.91.128.146:4444/udp/227.10.20.88:1234
 #EXTINF:-1 group-title="FILMES" ,TBS"
 http://189.91.128.146:4444/udp/227.10.20.166:1234
-#EXTINF:-1 group-title="FILMES",TLC"
+#EXTINF:-1 group-title="FILMES" ,TLC"
 http://189.91.128.146:4444/udp/227.10.20.84:1234
 #EXTINF:-1 group-title="FILMES" ,"Travel HD"
 http://189.91.128.146:4444/udp/227.10.20.115:1234
@@ -159,7 +159,7 @@ http://189.91.128.146:4444/udp/227.10.20.123:1234
 http://189.91.128.146:4444/udp/227.10.20.102:1234
 #EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/premiere.png" ,Premiere 2
 http://189.91.128.146:4444/udp/227.10.20.104:1234
-#EXTINF:-1 group-title="PREMIERE","PREMIERE CLUBES HD"
+#EXTINF:-1 group-title="PREMIERE" ,"PREMIERE CLUBES HD"
 http://189.91.128.146:4444/udp/227.10.20.102:1234
 #EXTINF:-1 group-title="CANAIS", "Prime SD" ,Prime SD
 http://189.91.128.146:4444/udp/227.10.20.114:1234
