@@ -1,0 +1,131 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-logo="http://crawler.mdcgate.com/iptv/logo/1761.png" group-title="FILMES E SÉRIES",TELECINE PREMIUM
+http://189.91.128.146:4444/udp/227.10.20.134:1234
+#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-logo="http://crawler.mdcgate.com/iptv/logo/471.png" group-title="FILMES E SÉRIES",TELECINE ACTION
+http://189.91.128.146:4444/udp/227.10.20.135:1234
+#EXTINF:-1 tvg-id="CANAL BRASIL" tvg-logo="http://crawler.mdcgate.com/iptv/logo/23044.png" group-title="FILMES E SÉRIES",CANAL BRASIL
+http://50.7.34.155:2200/BR/Canal_Brasil_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="A&E HD" tvg-logo="http://dns.jserverstv.ml:80/images/8f513a3b55911d5e57431bea8780363f.png" group-title="FILMES E SÉRIES",A&E HD
+http://solutionplay.xyz:8080/techruthes/10987658/6427
+#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-logo="http://static.bldn.vip/logos/filmeseseries/starchannel.png" group-title="FILMES E SÉRIES",STAR CHANNEL
+http://solutionplay.xyz:8080/techruthes/10987658/6439
+#EXTINF:-1 tvg-id="AMC SD" tvg-logo="http://dns.jserverstv.ml:80/images/7c52ed5b8820b7dfd90b5a784bac64b3.png" group-title="FILMES E SÉRIES",AMC SD
+http://dns.blackouthd.xyz:80/blogue79/super810532/173113
+#EXTINF:-1 tvg-id="AXN HD" tvg-logo="http://dns.jserverstv.ml:80/images/042dba4d2faaa29cd2fa4c0125416d25.png" group-title="FILMES E SÉRIES",AXN HD
+http://dns.blackouthd.xyz:80/blogue79/super810532/173114
+#EXTINF:-1 tvg-id="HBO HD" tvg-logo="http://crawler.mdcgate.com/iptv/logo/450.png" group-title="FILMES E SÉRIES",HBO
+http://189.91.128.146:4444/udp/227.10.20.94:1234
+#EXTINF:-1 tvg-id="HBO 2" tvg-logo="http://crawler.mdcgate.com/iptv/logo/403814.png" group-title="FILMES E SÉRIES",HBO 2
+http://189.91.128.146:4444/udp/227.10.20.95:1234
+#EXTINF:-1 tvg-id="HBO+" tvg-logo="https://1.bp.blogspot.com/-IaVubC3e0w4/Xk70YuLghmI/AAAAAAAACFc/dfLAePYpBlwPazBj_MIh10M25XiQDMIpgCLcBGAsYHQ/s1600/hboplus.png" group-title="FILMES E SÉRIES",HBO+ HD
+http://solutionplay.xyz:8080/techruthes/197850/6493
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-logo="http://crawler.mdcgate.com/iptv/logo/551983.png" group-title="FILMES E SÉRIES",HBO SIGNATURE
+http://189.91.128.146:4444/udp/227.10.20.158:1234
+#EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="http://crawler.mdcgate.com/iptv/logo/1341.png" group-title="FILMES E SÉRIES",HBO FAMILY
+http://189.91.128.146:4444/udp/227.10.20.157:1234
+#EXTINF:-1 tvg-id="HBO MUNDI" tvg-logo="http://img.myapp.st/1581121936_50a3f7c503b77778d785e90df0145c8fd76d1152.jpg" group-title="FILMES E SÉRIES",HBO MUNDI
+http://50.7.34.155:2200/BR/HBO_MUNDI_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="HBO XTREME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="FILMES E SÉRIES",HBO XTREME
+http://189.91.128.146:4444/udp/227.10.20.100:1234
+#EXTINF:-1 tvg-id="TCM FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="FILMES E SÉRIES",TCM FHD
+http://solutionplay.xyz:8080/techruthes/197850/6491
+#EXTINF:-1 tvg-id="Warner Channel HD" tvg-logo="https://1.bp.blogspot.com/-op011tmRIXQ/Xk70oGwc0-I/AAAAAAAACH8/Pf3FY0ON8Ic7PXZDKBtbiGbLJU4imuV4wCLcBGAsYHQ/s1600/warnerchannel.png" group-title="FILMES E SÉRIES",WARNER CHANNEL HD
+http://solutionplay.xyz:8080/techruthes/197850/6486
+#EXTINF:-1 tvg-id="MEGAPIX HD" tvg-logo="https://1.bp.blogspot.com/-KYJNJ8ofZhQ/Xk70bsae15I/AAAAAAAACF4/bu4pFKpyK3I802HKsQJEP4f8S7_KLRUXgCLcBGAsYHQ/s1600/megapix.png" group-title="FILMES E SÉRIES",MEGAPIX HD
+http://solutionplay.xyz:8080/techruthes/197850/6457
+
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV" tvg-logo="http://logocanais.ddns.net/Logo/Libertadores.png" group-title="Canais Esporte",Conmebol TV
+http://200.4.96.35:8001/play/a0ea/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 1" tvg-logo="http://logocanais.ddns.net/Logo/Libertadores.png" group-title="Canais Esporte",Conmebol TV 1
+http://200.4.96.35:8004/play/a0dy/index.m3u8
+#EXTINF:-1 tvg-id="Conmebol TV 2" tvg-logo="http://logocanais.ddns.net/Logo/Libertadores.png" group-title="Canais Esporte",Conmebol TV 2
+http://200.4.96.35:8004/play/a0dz/index.m3u8
+#EXTINF:-1 tvg-id="Conmebol TV 3" tvg-logo="http://logocanais.ddns.net/Logo/Libertadores.png" group-title="Canais Esporte",Conmebol TV 3
+http://200.4.96.35:8001/play/a0ea/index.m3u8
+#EXTINF:-1 tvg-id="Band Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/1280px-BandSports_logo.svg.png" group-title="Canais Esporte",Band Sports
+http://hdmais.com:80/samira01/samira02/9604
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-logo="https://i.imgur.com/FW12yr4.png" group-title="Canais Esporte",ESPN BRASIL HD
+http://hdmais.com:80/samira01/samira02/10054826
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.imgur.com/FW12yr4.png" group-title="Canais Esporte",ESPN HD
+http://hdmais.com:80/samira01/samira02/9610
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="http://crawler.mdcgate.com/iptv/logo/1157.png" group-title="Canais Esporte",ESPN 2
+http://hdmais.com:80/samira01/samira02/6286
+#EXTINF:-1 tvg-id="ESPN Extra HD" tvg-logo="https://i.imgur.com/FW12yr4.png" group-title="Canais Esporte",ESPN EXTRA HD
+http://hdmais.com:80/samira01/samira02/5396
+#EXTINF:-1 tvg-id="FOX SPORTS" tvg-logo="http://crawler.mdcgate.com/iptv/logo/31018.png" group-title="Canais Esporte",FOX SPORTS HD
+http://hdmais.com:80/samira01/samira02/5775
+#EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-logo="http://crawler.mdcgate.com/iptv/logo/1050.png" group-title="Canais Esporte",FOX SPORTS 2 HD
+http://hdmais.com:80/samira01/samira02/10054808
+#EXTINF:-1 tvg-id="TNT SPORTS" tvg-logo="https://pbs.twimg.com/media/Er5yR_-XEAAU3Jj.jpg" group-title="Canais Esporte",TNT SPORTS
+http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="SPORTV" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="Canais Esporte",SPORTV
+http://hdmais.com:80/samira01/samira02/4797
+#EXTINF:-1 tvg-id="SPORTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/SporTV_2_logotipo.png" group-title="Canais Esporte",SPORTV 2
+http://hdmais.com:80/samira01/samira02/5940
+#EXTINF:-1 tvg-id="SPORTV 3" tvg-logo="http://crawler.mdcgate.com/iptv/logo/22954.png" group-title="Canais Esporte",SPORTV 3
+http://hdmais.com:80/samira01/samira02/6554
+#EXTINF:-1 tvg-id="PREMIERE" tvg-logo="http://crawler.mdcgate.com/iptv/logo/22815.png" group-title="Canais Esporte",PREMIERE
+http://189.91.128.146:4444/udp/227.10.20.102:1234
+#EXTINF:-1 tvg-id="PREMIERE 2" tvg-logo="http://crawler.mdcgate.com/iptv/logo/22815.png" group-title="Canais Esporte",PREMIERE 2
+http://189.91.128.146:4444/udp/227.10.20.104:1234
+#EXTINF:-1 tvg-id="PREMIERE 3" tvg-logo="http://crawler.mdcgate.com/iptv/logo/22815.png" group-title="Canais Esporte",PREMIERE 3
+http://189.91.128.146:4444/udp/227.10.20.105:1234
+#EXTINF:-1 tvg-id="PREMIERE 4" tvg-logo="http://crawler.mdcgate.com/iptv/logo/22815.png" group-title="Canais Esporte",PREMIERE 4
+http://189.91.128.146:4444/udp/227.10.20.106:1234
+#EXTINF:-1 tvg-id="PREMIERE 5" tvg-logo="http://crawler.mdcgate.com/iptv/logo/22815.png" group-title="Canais Esporte",PREMIERE 5
+http://189.91.128.146:4444/udp/227.10.20.107:1234
+#EXTINF:-1 tvg-id="PREMIERE 6" tvg-logo="http://crawler.mdcgate.com/iptv/logo/22815.png" group-title="Canais Esporte",PREMIERE 6
+http://189.91.128.146:4444/udp/227.10.20.123:1234
+#EXTINF:-1 tvg-id="PREMIERE 7" tvg-logo="http://crawler.mdcgate.com/iptv/logo/22815.png" group-title="Canais Esporte",PREMIERE 7
+http://b5.vc:80/live/5sVAyGZp/phantomiptv/72259.m3u8
+#EXTINF:-1 tvg-id="PREMIERE 8" tvg-logo="http://crawler.mdcgate.com/iptv/logo/22815.png" group-title="Canais Esporte",PREMIERE 8
+http://b5.vc:80/live/5sVAyGZp/phantomiptv/72261.m3u8
+#EXTINF:-1 tvg-id="COMBATE" tvg-logo="http://crawler.mdcgate.com/iptv/logo/22663.png" group-title="Canais Esporte",COMBATE
+http://hdmais.com:80/samira01/samira02/201
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tv_evangelizar.png" group-title="Canais Religiosos",TV Evangelizar
+http://solutionplay.xyz:8080/techruthes/10987658/5921
+#EXTINF:-1 tvg-id="TV Aparecida [Brazil]" tvg-logo="http://i.imgur.com/RP0sbkV.png" group-title="Canais Religiosos",TV APARECIDA
+http://solutionplay.xyz:8080/techruthes/10987658/6047
+
+#EXTINF:-1 tvg-id="H! HD" tvg-logo="http://crawler.mdcgate.com/iptv/logo/12636.png" group-title="Documentário",H!
+http://hdmais.com:80/samira01/samira02/5923
+#EXTINF:-1 tvg-id="HISTORY" tvg-logo="http://crawler.mdcgate.com/iptv/logo/454.png" group-title="Documentário",HISTORY
+http://hdmais.com:80/samira01/samira02/5762
+#EXTINF:-1 tvg-id="HISTORY 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/220px-History2Logo2019.png" group-title="Documentário",H2
+http://hdmais.com:80/samira01/samira02/10054561
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC" tvg-logo="http://crawler.mdcgate.com/iptv/logo/975.png" group-title="Documentário",NATIONAL GEOGRAPHIC
+http://hdmais.com:80/samira01/samira02/9632
+#EXTINF:-1 tvg-id="NATGEO WILD" tvg-logo="http://crawler.mdcgate.com/iptv/logo/29119.png" group-title="Documentário",NATGEO WILD
+http://hdmais.com:80/samira01/samira02/6541
+#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-logo="http://crawler.mdcgate.com/iptv/logo/420.png" group-title="Documentário",ANIMAL PLANET
+http://hdmais.com:80/samira01/samira02/5902
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-logo="http://crawler.mdcgate.com/iptv/logo/1348.png" group-title="Documentário",DISCOVERY CHANNEL
+http://hdmais.com:80/samira01/samira02/5536
+#EXTINF:-1 tvg-id="DISCOVERY HOME & HEALTH" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png" group-title="Documentário",DISCOVERY H&H
+http://hdmais.com:80/samira01/samira02/6544
+#EXTINF:-1 tvg-id="DISCOVERY TURBO" tvg-logo="http://crawler.mdcgate.com/iptv/logo/38987.png" group-title="Documentário",DISCOVERY TURBO
+http://hdmais.com:80/samira01/samira02/2756
+#EXTINF:-1 tvg-id="DISCOVERY WORLD" tvg-logo="http://crawler.mdcgate.com/iptv/logo/3229.png" group-title="Documentário",DISCOVERY WORLD
+http://hdmais.com:80/samira01/samira02/6545
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-logo="http://crawler.mdcgate.com/iptv/logo/1546.png" group-title="Documentário",DISCOVERY SCIENCE
+http://hdmais.com:80/samira01/samira02/9608
+#EXTINF:-1 tvg-id="DISCOVERY THEATER" tvg-logo="http://crawler.mdcgate.com/iptv/logo/4682.png" group-title="Documentário",DISCOVERY THEATER
+http://hdmais.com:80/samira01/samira02/9609
+
+#EXTINF:-1 tvg-id="MULTISHOW" tvg-logo="http://crawler.mdcgate.com/iptv/logo/22917.png" group-title="VARIEDADES",MULTISHOW
+http://hdmais.com:80/samira01/samira02/9628
+#EXTINF:-1 tvg-id="GNT" tvg-logo="http://crawler.mdcgate.com/iptv/logo/22037.png" group-title="VARIEDADES",GNT
+http://hdmais.com:80/samira01/samira02/9618
+#EXTINF:-1 tvg-id="FOOD NETWORK" tvg-logo="http://crawler.mdcgate.com/iptv/logo/11385.png" group-title="VARIEDADES",FOOD NETWORK
+http://hdmais.com:80/samira01/samira02/10054814
+#EXTINF:-1 tvg-id="HGTV" tvg-logo="https://i.imgur.com/AZ7dVGc.png" group-title="VARIEDADES",HGTV
+http://hdmais.com:80/samira01/samira02/5927
+#EXTINF:-1 tvg-id="BIS" tvg-logo="http://crawler.mdcgate.com/iptv/logo/22862.png" group-title="VARIEDADES",BIS
+http://212.224.98.208:2200/BR/BIS_HD-br/index.m3u8?token=RED_UudWnQS2T4TinNc09AP86Q==,1591219334.0469580283
+#EXTINF:-1 tvg-id="MTV LIVE" tvg-logo="http://crawler.mdcgate.com/iptv/logo/237358.png" group-title="VARIEDADES",MTV LIVE
+http://primestreams.tv:826/Paraneice@yahoo.com/uMSN5mdaPK/109179
+#EXTINF:-1 tvg-id="MTV BRASIL" tvg-logo="http://crawler.mdcgate.com/iptv/logo/301976.png" group-title="VARIEDADES",MTV BRASIL
+http://50.7.34.155:2200/BR/MTV_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="VH1" tvg-logo="https://1.bp.blogspot.com/-4H-jzW_u4Ks/XbEy6abqq-I/AAAAAAAAArU/yM_eK9uX0Rk-SpHNOZ37x75W7QiSRKJlgCLcBGAsYHQ/s200/5.png" group-title="VARIEDADES",VH1
+http://50.7.34.155:2200/BR/VH1_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
