@@ -1,37 +1,37 @@
 #EXTM3U
 #EXTINF:-1 group-title="FILMES" ,A&E
 http://189.91.128.146:4444/udp/227.10.20.129:1234
-#EXTINF:-1 group-title="FILMES" ,FX HD
+#EXTINF:-1 group-title="FILMES" ,"FX HD"
 http://189.91.128.146:4444/udp/227.10.20.138:1234
-#EXTINF:-1 group-title="FILMES" ,Cine Brasil
+#EXTINF:-1 group-title="FILMES" ,"Cine Brasil"
 http://189.91.128.146:4444/udp/227.10.20.171:1234
-#EXTINF:-1 group-title="FILMES" ,FOX HD
+#EXTINF:-1 group-title="FILMES" ,"FOX HD"
 http://189.91.128.146:4444/udp/227.10.20.139:1234
-#EXTINF:-1 group-title="FILMES" ,MAX PRIME
+#EXTINF:-1 group-title="FILMES" ,"MAX PRIME"
 http://189.91.128.146:4444/udp/227.10.20.100:1234
-#EXTINF:-1 group-title="FILMES" ,MAX UP
+#EXTINF:-1 group-title="FILMES" ,"MAX UP"
 http://189.91.128.146:4444/udp/227.10.20.99:1234
-#EXTINF:-1 group-title="FILMES" ,Megapix
+#EXTINF:-1 group-title="FILMES" ,"Megapix"
 http://189.91.128.146:4444/udp/227.10.20.89:1234
-#EXTINF:-1 group-title="FILMES" ,PMCBR-HD
+#EXTINF:-1 group-title="FILMES" ,"PMCBR-HD"
 http://189.91.128.146:4444/udp/227.10.20.140:1234
-#EXTINF:-1 group-title="FILMES" ,SONY HD
+#EXTINF:-1 group-title="FILMES" ,"SONY HD"
 http://189.91.128.146:4444/udp/227.10.20.127:1234
-#EXTINF:-1 group-title="FILMES" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/starchannel.png" ,	STAR CHANNEL
+#EXTINF:-1 group-title="FILMES" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/starchannel.png" ,	"STAR CHANNEL"
 http://189.91.128.146:4444/udp/227.10.20.139:1234
-#EXTINF:-1 group-title="FILMES",Studio Universal
+#EXTINF:-1 group-title="FILMES","Studio Universal"
 http://189.91.128.146:4444/udp/227.10.20.88:1234
-#EXTINF:-1 group-title="FILMES" ,TBS
+#EXTINF:-1 group-title="FILMES" ,TBS"
 http://189.91.128.146:4444/udp/227.10.20.166:1234
-#EXTINF:-1 group-title="FILMES",TLC
+#EXTINF:-1 group-title="FILMES",TLC"
 http://189.91.128.146:4444/udp/227.10.20.84:1234
-#EXTINF:-1 group-title="FILMES" ,Travel HD
+#EXTINF:-1 group-title="FILMES" ,"Travel HD"
 http://189.91.128.146:4444/udp/227.10.20.115:1234
-#EXTINF:-1 group-title="FILMES" ,TV 5 HD
+#EXTINF:-1 group-title="FILMES" ,"TV 5 HD"
 http://189.91.128.146:4444/udp/227.10.20.163:1234
-#EXTINF:-1 group-title="FILMES" ,TCM
+#EXTINF:-1 group-title="FILMES" ,"TCM"
 http://189.91.128.146:4444/udp/227.10.20.124:1234
-#EXTINF:-1 group-title="FILMES" ,WARNER HD
+#EXTINF:-1 group-title="FILMES" ,"WARNER HD"
 http://189.91.128.146:4444/udp/227.10.20.126:1234
 #EXTINF:-1 group-title="CANAIS", "AgroMinas TV" ,AgroMinas TV
 http://189.91.128.146:4444/udp/227.10.20.108:1234
