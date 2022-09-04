@@ -37,7 +37,7 @@ http://189.91.128.146:4444/udp/227.10.20.126:1234
 http://189.91.128.146:4444/udp/227.10.20.108:1234
 #EXTINF:-1 group-title="CANAIS ABERTO" ,AgroMinas TV
 http://189.91.128.146:4444/udp/227.10.20.175:1234
-#EXTINF:-1 group-title="CANAIS", "ANIMAL PLANET HD" ,ANIMAL PLANET HD
+#EXTINF:-1 group-title="DISCOVERY" ,ANIMAL PLANET HD
 http://189.91.128.146:4444/udp/227.10.20.118:1234
 #EXTINF:-1 group-title="CANAIS", "Band News" ,Band News
 http://189.91.128.146:4444/udp/227.10.20.131:1234
@@ -63,21 +63,21 @@ http://189.91.128.146:4444/udp/227.10.20.168:1234
 http://189.91.128.146:4444/udp/227.10.20.111:1234
 #EXTINF:-1 group-title="ESPORTES" ,COMBATE HD
 http://189.91.128.146:4444/udp/227.10.20.172:1234
-#EXTINF:-1 group-title="CANAIS", "Disc. Kids" ,Disc. Kids
+#EXTINF:-1 group-title="DISCOVERY" ,Disc. Kids
 http://189.91.128.146:4444/udp/227.10.20.83:1234
-#EXTINF:-1 group-title="CANAIS", "Disc. Science" ,Disc. Science
+#EXTINF:-1 group-title="DISCOVERY" ,Disc. Science
 http://189.91.128.146:4444/udp/227.10.20.92:1234
-#EXTINF:-1 group-title="CANAIS", "Disc. Turbo HD" ,Disc. Turbo HD
+#EXTINF:-1 group-title="DISCOVERY" ,Disc. Turbo HD
 http://189.91.128.146:4444/udp/227.10.20.82:1234
-#EXTINF:-1 group-title="CANAIS", "DISCOVERY CHANNEL HD" ,DISCOVERY CHANNEL HD
+#EXTINF:-1 group-title="DISCOVERY"  ,DISCOVERY CHANNEL HD
 http://189.91.128.146:4444/udp/227.10.20.80:1234
-#EXTINF:-1 group-title="CANAIS", "Discovery Home" ,Discovery Home
+#EXTINF:-1 group-title="DISCOVERY"  ,Discovery Home
 http://189.91.128.146:4444/udp/227.10.20.85:1234
-#EXTINF:-1 group-title="CANAIS", "Discovery Scien" ,Discovery Scien
+#EXTINF:-1 group-title="DISCOVERY"  ,Discovery Scien
 http://189.91.128.146:4444/udp/227.10.20.177:1234
-#EXTINF:-1 group-title="CANAIS", "Disney Channel" ,Disney Channel
+#EXTINF:-1 group-title="DISCOVERY" ,Disney Channel
 http://189.91.128.146:4444/udp/227.10.20.90:1234
-#EXTINF:-1 group-title="CANAIS", "DISNEY ðŸ˜† HD" ,DISNEY ðŸ˜† HD
+#EXTINF:-1 group-title="DIVERSOS" ,DISNEY ðŸ˜† HD
 http://189.91.128.146:4444/udp/227.10.20.110:1234
 #EXTINF:-1 group-title="ESPORTES"  tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/LigaPortugalbwin.png" ,ESPN
 http://189.91.128.146:4444/udp/227.10.20.81:1234
@@ -111,7 +111,7 @@ http://189.91.128.146:4444/udp/227.10.20.116:1234
 http://189.91.128.146:4444/udp/227.10.20.165:1234
 #EXTINF:-1 group-title="CANAIS", "Gloob" ,Gloob
 http://189.91.128.146:4444/udp/227.10.20.91:1234
-#EXTINF:-1 group-title="CANAIS", "HBO" ,HBO
+#EXTINF:-1 group-title="HBO" ,HBO
 http://189.91.128.146:4444/udp/227.10.20.94:1234
 #EXTINF:-1 group-title="HBO" ,HBO FAMILY
 http://189.91.128.146:4444/udp/227.10.20.97:1234
