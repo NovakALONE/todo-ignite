@@ -151,9 +151,9 @@ http://189.91.128.146:4444/udp/227.10.20.143:1234
 http://189.91.128.146:4444/udp/227.10.20.109:1234
 #EXTINF:-1 group-title="CANAIS ABERTO"  ,N/A HD
 http://189.91.128.146:4444/udp/227.10.20.133:1234
-#EXTINF:-1 group-title="DIVERSOS"  ,nick jr.
+#EXTINF:-1 group-title="INFANTIL"  ,nick jr.
 http://189.91.128.146:4444/udp/227.10.20.167:1234
-#EXTINF:-1 group-title="DIVERSOS"  ,NIKBR-HD
+#EXTINF:-1 group-title="INFANTIL"  ,NIKBR-HD
 http://189.91.128.146:4444/udp/227.10.20.149:1234
 #EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/premiere.png" , PREMIERE 2 HD
 http://189.91.128.146:4444/udp/227.10.20.104:1234
