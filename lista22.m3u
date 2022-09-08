@@ -89,15 +89,15 @@ http://189.91.128.146:4444/udp/227.10.20.177:1234
 http://189.91.128.146:4444/udp/227.10.20.90:1234
 #EXTINF:-1 group-title="DIVERSOS" ,DISNEY ðŸ˜† HD
 http://189.91.128.146:4444/udp/227.10.20.110:1234
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/LigaPortugalbwin.png" ,ESPN
+#EXTINF:-1 group-title="ESPORTES" ,ESPN
 http://189.91.128.146:4444/udp/227.10.20.81:1234
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/LigaPortugalbwin.png" ,ESPN 2
+#EXTINF:-1 group-title="ESPORTES" ,ESPN 2
 http://189.91.128.146:4444/udp/227.10.20.128:1234
 #EXTINF:-1 group-title="ESPORTES" ,ESPN 2 HD
 http://189.91.128.146:4444/udp/227.10.20.153:1234
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/LigaPortugalbwin.png" ,ESPN 3
+#EXTINF:-1 group-title="ESPORTES" ,ESPN 3
 http://189.91.128.146:4444/udp/227.10.20.153:1234
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/LigaPortugalbwin.png" ,ESPN 4
+#EXTINF:-1 group-title="ESPORTES" ,ESPN 4
 http://189.91.128.146:4444/udp/227.10.20.116:1234
 #EXTINF:-1 group-title="ESPORTES" ,ESPN BR HD
 http://189.91.128.146:4444/udp/227.10.20.81:1234
@@ -113,7 +113,7 @@ http://189.91.128.146:4444/udp/227.10.20.113:1234
 http://189.91.128.146:4444/udp/227.10.20.117:1234
 #EXTINF:-1 group-title="ESPORTES" ,FOX Sports 2
 http://189.91.128.146:4444/udp/227.10.20.132:1234
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/LigaPortugalbwin.png" ,FOX Sports 2
+#EXTINF:-1 group-title="ESPORTES" ,FOX Sports 2
 http://189.91.128.146:4444/udp/227.10.20.132:1234
 #EXTINF:-1 group-title="ESPORTES" ,FOX SPORTS HD
 http://189.91.128.146:4444/udp/227.10.20.116:1234
