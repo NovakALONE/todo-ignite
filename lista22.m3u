@@ -203,11 +203,11 @@ http://189.91.128.146:4444/udp/227.10.20.151:1234
 http://189.91.128.146:4444/udp/227.10.20.103:1234
 #EXTINF:-1 group-title="DIVERSOS" ,WooHoo
 http://189.91.128.146:4444/udp/227.10.20.112:1234
-#EXTINF:-1,A&E
+#EXTINF:-1 group-title="FILMES" ,A&E
 http://45.175.61.242:4000/play/a0dh/index.m3u8
-#EXTINF:-1 tvg-id="1",AMC
+#EXTINF:-1 group-title="FILMES" ,AMC
 http://45.175.61.242:4000/play/a07d/index.m3u8
-#EXTINF:-1,AXN
+#EXTINF:-1 group-title="FILMES" ,AXN
 http://45.175.61.242:4000/play/a0as/index.m3u8
 #EXTINF:-1 tvg-id="2",Animal Planet
 http://45.175.61.242:4000/play/a047/index.m3u8
@@ -221,7 +221,7 @@ http://45.175.61.242:4000/play/a08m/index.m3u8
 http://45.175.61.242:4000/play/a0ae/index.m3u8
 #EXTINF:-1,Band Sports
 http://45.175.61.242:4000/play/a0a3/index.m3u8
-#EXTINF:-1,Bandeirantes
+#EXTINF:-1 group-title="CANAIS ABERTO" ,Bandeirantes
 http://45.175.61.242:4000/play/a0eg/index.m3u8
 #EXTINF:-1,Boa Vontade TV
 http://45.175.61.242:4000/play/a0b3/index.m3u8
@@ -231,7 +231,7 @@ http://45.175.61.242:4000/play/a0dj/index.m3u8
 http://45.175.61.242:4000/play/a098/index.m3u8
 #EXTINF:-1,CGTN HD
 http://45.175.61.242:4000/play/a09j/index.m3u8
-#EXTINF:-1,CINECANAL
+#EXTINF:-1 group-title="FILMES" ,CINECANAL
 http://45.175.61.242:4000/play/a0ig/index.m3u8
 #EXTINF:-1,CNN Brasil
 http://45.175.61.242:4000/play/a09s/index.m3u8
@@ -239,11 +239,11 @@ http://45.175.61.242:4000/play/a09s/index.m3u8
 http://45.175.61.242:4000/play/a0au/index.m3u8
 #EXTINF:-1,CNN Internacional
 http://45.175.61.242:4000/play/a0ea/index.m3u8
-#EXTINF:-1,CNT
+#EXTINF:-1 group-title="CANAIS ABERTO" ,CNT
 http://45.175.61.242:4000/play/a08r/index.m3u8
-#EXTINF:-1,CNT CURITIBA
+#EXTINF:-1 group-title="CANAIS ABERTO" ,CNT CURITIBA
 http://45.175.61.242:4000/play/a0jd/index.m3u8
-#EXTINF:-1,CNT RIO DE JANEIRO
+#EXTINF:-1 group-title="CANAIS ABERTO" ,CNT RIO DE JANEIRO
 http://45.175.61.242:4000/play/a0je/index.m3u8
 #EXTINF:-1,CONMEBOL TV 1
 http://45.175.61.242:4000/play/a0i0/index.m3u8
@@ -253,23 +253,23 @@ http://45.175.61.242:4000/play/a0i1/index.m3u8
 http://45.175.61.242:4000/play/a0i2/index.m3u8
 #EXTINF:-1,CONMEBOL TV 4
 http://45.175.61.242:4000/play/a0i3/index.m3u8
-#EXTINF:-1,Canal Brasil
+#EXTINF:-1 group-title="CANAIS ABERTO" ,Canal Brasil
 http://45.175.61.242:4000/play/a08j/index.m3u8
-#EXTINF:-1,Canal Claro
+#EXTINF:-1 group-title="CANAIS ABERTO" ,Canal Claro
 http://45.175.61.242:4000/play/a0j0/index.m3u8
-#EXTINF:-1,Canal Rural
+#EXTINF:-1 group-title="CANAIS ABERTO" ,Canal Rural
 http://45.175.61.242:4000/play/a0dk/index.m3u8
 #EXTINF:-1,Canal Sony
 http://45.175.61.242:4000/play/a0a6/index.m3u8
-#EXTINF:-1,Canal do Boi
+#EXTINF:-1 group-title="CANAIS ABERTO" ,Canal do Boi
 http://45.175.61.242:4000/play/a060/index.m3u8
-#EXTINF:-1,CanĿªo Nova
+#EXTINF:-1 group-title="CANAIS ABERTO" ,CanĿªo Nova
 http://45.175.61.242:4000/play/a0hb/index.m3u8
 #EXTINF:-1,Cartoon Network
 http://45.175.61.242:4000/play/a09n/index.m3u8
 #EXTINF:-1,Cartoonito
 http://45.175.61.242:4000/play/a0ih/index.m3u8
-#EXTINF:-1,Cinemax
+#EXTINF:-1 group-title="FILMES" ,Cinemax
 http://45.175.61.242:4000/play/a0dz/index.m3u8
 #EXTINF:-1,Combate
 http://45.175.61.242:4000/play/a0c2/index.m3u8
@@ -277,8 +277,6 @@ http://45.175.61.242:4000/play/a0c2/index.m3u8
 http://45.175.61.242:4000/play/a0bt/index.m3u8
 #EXTINF:-1,Curta!
 http://45.175.61.242:4000/play/a0bz/index.m3u8
-#EXTINF:-1,DW (Deutsch+)
-http://45.175.61.242:4000/play/a0ec/index.m3u8
 #EXTINF:-1,Discovery Channel
 http://45.175.61.242:4000/play/a08q/index.m3u8
 #EXTINF:-1,Discovery H&H
@@ -299,11 +297,11 @@ http://45.175.61.242:4000/play/a0am/index.m3u8
 http://45.175.61.242:4000/play/a092/index.m3u8
 #EXTINF:-1,ESPN4
 http://45.175.61.242:4000/play/a09k/index.m3u8
-#EXTINF:-1,EVANGELIZAR
+#EXTINF:-1 group-title="CANAIS ABERTO" ,EVANGELIZAR
 http://45.175.61.242:4000/play/a0ja/index.m3u8
-#EXTINF:-1,FX
+#EXTINF:-1 group-title="FILMES" ,FX
 http://45.175.61.242:4000/play/a0a5/index.m3u8
-#EXTINF:-1,Film & Arts
+#EXTINF:-1 group-title="FILMES" ,Film & Arts
 http://45.175.61.242:4000/play/a09b/index.m3u8
 #EXTINF:-1,Fish TV
 http://45.175.61.242:4000/play/a0df/index.m3u8
@@ -311,7 +309,7 @@ http://45.175.61.242:4000/play/a0df/index.m3u8
 http://45.175.61.242:4000/play/a08d/index.m3u8
 #EXTINF:-1,Fox Sports 2
 http://45.175.61.242:4000/play/a0aj/index.m3u8
-#EXTINF:-1,Futura
+#EXTINF:-1 group-title="CANAIS ABERTO" ,Futura
 http://45.175.61.242:4000/play/a0eh/index.m3u8
 #EXTINF:-1,GNT
 http://45.175.61.242:4000/play/a0de/index.m3u8
@@ -347,23 +345,23 @@ http://45.175.61.242:4000/play/a093/index.m3u8
 http://45.175.61.242:4000/play/a0a4/index.m3u8
 #EXTINF:-1,History 2
 http://45.175.61.242:4000/play/a0a7/index.m3u8
-#EXTINF:-1,I-SAT
+#EXTINF:-1 group-title="CANAIS ABERTO" ,I-SAT
 http://45.175.61.242:4000/play/a0ds/index.m3u8
 #EXTINF:-1,ID - I.Discovery
 http://45.175.61.242:4000/play/a0ac/index.m3u8
-#EXTINF:-1,IDEAL TV
+#EXTINF:-1 group-title="CANAIS ABERTO" ,IDEAL TV
 http://45.175.61.242:4000/play/a0l7/index.m3u8
-#EXTINF:-1,Inter TV Cabugi
+#EXTINF:-1 group-title="CANAIS ABERTO" ,Inter TV Cabugi
 http://45.175.61.242:4000/play/a0fa/index.m3u8
-#EXTINF:-1,JOVEM PAN NEWS
+#EXTINF:-1 group-title="CANAIS ABERTO" ,JOVEM PAN NEWS
 http://45.175.61.242:4000/play/a0l6/index.m3u8
 #EXTINF:-1,Lifetime
 http://45.175.61.242:4000/play/a095/index.m3u8
 #EXTINF:-1,Loading
 http://45.175.61.242:4000/play/a09o/index.m3u8
-#EXTINF:-1,MTV
+#EXTINF:-1 group-title="CANAIS ABERTO" ,MTV
 http://45.175.61.242:4000/play/a08z/index.m3u8
-#EXTINF:-1,MegaPix
+#EXTINF:-1 group-title="FILMES" ,MegaPix
 http://45.175.61.242:4000/play/a0e0/index.m3u8
 #EXTINF:-1,Modo Viagem
 http://45.175.61.242:4000/play/a099/index.m3u8
@@ -381,13 +379,13 @@ http://45.175.61.242:4000/play/a0dm/index.m3u8
 http://45.175.61.242:4000/play/a0a8/index.m3u8
 #EXTINF:-1,OFF
 http://45.175.61.242:4000/play/a08g/index.m3u8
-#EXTINF:-1,PAI ETERNO
+#EXTINF:-1 group-title="CANAIS ABERTO" ,PAI ETERNO
 http://45.175.61.242:4000/play/a0jc/index.m3u8
-#EXTINF:-1,Pai Eterno
+#EXTINF:-1 group-title="CANAIS ABERTO" ,Pai Eterno
 http://45.175.61.242:4000/play/a097/index.m3u8
-#EXTINF:-1,Paramount Network
+#EXTINF:-1 group-title="FILMES" ,Paramount Network
 http://45.175.61.242:4000/play/a08f/index.m3u8
-#EXTINF:-1,Polishop TV
+#EXTINF:-1 group-title="CANAIS ABERTO" ,Polishop TV
 http://45.175.61.242:4000/play/a0du/index.m3u8
 #EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/premiere.png" ,Premiere 2 SD
 http://45.175.61.242:4000/play/a0af/index.m3u8
@@ -405,63 +403,59 @@ http://45.175.61.242:4000/play/a09h/index.m3u8
 http://45.175.61.242:4000/play/a08w/index.m3u8
 #EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/premiere.png" ,Premiere Clubes SD
 http://45.175.61.242:4000/play/a0ah/index.m3u8
-#EXTINF:-1,Prime Box Brazil
+#EXTINF:-1 group-title="FILMES" ,Prime Box Brazil
 http://45.175.61.242:4000/play/a0aq/index.m3u8
 #EXTINF:-1,RAI
 http://45.175.61.242:4000/play/a0e9/index.m3u8
 #EXTINF:-1,RBI
 http://45.175.61.242:4000/play/a0dr/index.m3u8
-#EXTINF:-1,RBS TV Porto Alegre
+#EXTINF:-1 group-title="CANAIS ABERTO" ,RBS TV Porto Alegre
 http://45.175.61.242:4000/play/a0eo/index.m3u8
 #EXTINF:-1,RECORD NEWS
 http://45.175.61.242:4000/play/a0k5/index.m3u8
-#EXTINF:-1,RECORDTV
+#EXTINF:-1 group-title="CANAIS ABERTO" ,RECORDTV
 http://45.175.61.242:4000/play/a0h4/index.m3u8
-#EXTINF:-1,RECORDTV
+#EXTINF:-1 group-title="CANAIS ABERTO" ,RECORDTV
 http://45.175.61.242:4000/play/a0ax/index.m3u8
-#EXTINF:-1,REDE VIDA
+#EXTINF:-1 group-title="CANAIS ABERTO" ,REDE VIDA
 http://45.175.61.242:4000/play/a0ka/index.m3u8
-#EXTINF:-1,REDE VIDA 2
+#EXTINF:-1 group-title="CANAIS ABERTO" ,REDE VIDA 2
 http://45.175.61.242:4000/play/a0k6/index.m3u8
-#EXTINF:-1,REDE VIDA 3
+#EXTINF:-1 group-title="CANAIS ABERTO" ,REDE VIDA 3
 http://45.175.61.242:4000/play/a0kb/index.m3u8
 #EXTINF:-1,RIT
 http://45.175.61.242:4000/play/a0dq/index.m3u8
 #EXTINF:-1,Record News
 http://45.175.61.242:4000/play/a08p/index.m3u8
-#EXTINF:-1,Record TV Alternativo
+#EXTINF:-1 group-title="CANAIS ABERTO" ,Record TV Alternativo
 http://45.175.61.242:4000/play/a0ag/index.m3u8
-#EXTINF:-1,Record TV Alternativo
+#EXTINF:-1 group-title="CANAIS ABERTO" ,Record TV Alternativo
 http://45.175.61.242:4000/play/a05i/index.m3u8
-#EXTINF:-1,Rede 21 HD
+#EXTINF:-1 group-title="CANAIS ABERTO" ,Rede 21 HD
 http://45.175.61.242:4000/play/a0j4/index.m3u8
-#EXTINF:-1,Rede Amazħnica Manaus
+#EXTINF:-1 group-title="CANAIS ABERTO" ,Rede Amazħnica Manaus
 http://45.175.61.242:4000/play/a0f9/index.m3u8
-#EXTINF:-1,Rede Brasil
+#EXTINF:-1 group-title="CANAIS ABERTO" ,Rede Brasil
 http://45.175.61.242:4000/play/a0h2/index.m3u8
-#EXTINF:-1,Rede Brasil
+#EXTINF:-1 group-title="CANAIS ABERTO" ,Rede Brasil
 http://45.175.61.242:4000/play/a0av/index.m3u8
-#EXTINF:-1,Rede TV
+#EXTINF:-1 group-title="CANAIS ABERTO" ,Rede TV
 http://45.175.61.242:4000/play/a0e8/index.m3u8
-#EXTINF:-1,Rede Vida
+#EXTINF:-1 group-title="CANAIS ABERTO" ,Rede Vida
 http://45.175.61.242:4000/play/a0h0/index.m3u8
-#EXTINF:-1,Rede Vida
+#EXTINF:-1 group-title="CANAIS ABERTO" ,Rede Vida
 http://45.175.61.242:4000/play/a0at/index.m3u8
-#EXTINF:-1,SBN
+#EXTINF:-1 group-title="CANAIS ABERTO" ,SBN
 http://45.175.61.242:4000/play/a0j9/index.m3u8
-#EXTINF:-1,SBT
+#EXTINF:-1 group-title="CANAIS ABERTO" ,SBT
 http://45.175.61.242:4000/play/a0ai/index.m3u8
-#EXTINF:-1,SIC Internacional
+#EXTINF:-1 group-title="CANAIS ABERTO" ,SIC Internacional
 http://45.175.61.242:4000/play/a0eb/index.m3u8
-#EXTINF:-1,STAR CHANNEL
+#EXTINF:-1 group-title="FILMES" ,STAR CHANNEL
 http://45.175.61.242:4000/play/a05t/index.m3u8
-#EXTINF:-1,STAR LIFE
+#EXTINF:-1 group-title="FILMES" ,STAR LIFE
 http://45.175.61.242:4000/play/a07l/index.m3u8
-#EXTINF:-1,Sextreme
-http://45.175.61.242:4000/play/a09c/index.m3u8
-#EXTINF:-1,Sexy Hot
-http://45.175.61.242:4000/play/a09f/index.m3u8
-#EXTINF:-1,Space
+#EXTINF:-1 group-title="FILMES" ,Space
 http://45.175.61.242:4000/play/a0bo/index.m3u8
 #EXTINF:-1,SporTV
 http://45.175.61.242:4000/play/a06y/index.m3u8
@@ -473,79 +467,79 @@ http://45.175.61.242:4000/play/a07h/index.m3u8
 http://45.175.61.242:4000/play/a0dy/index.m3u8
 #EXTINF:-1,SporTV Alternativo
 http://45.175.61.242:4000/play/a0ef/index.m3u8
-#EXTINF:-1,Studio Universal
+#EXTINF:-1 group-title="FILMES" ,Studio Universal
 http://45.175.61.242:4000/play/a042/index.m3u8
-#EXTINF:-1,Syfy
+#EXTINF:-1 group-title="FILMES" ,Syfy
 http://45.175.61.242:4000/play/a0e2/index.m3u8
-#EXTINF:-1,TBS
+#EXTINF:-1 group-title="FILMES" ,TBS
 http://45.175.61.242:4000/play/a0di/index.m3u8
-#EXTINF:-1,TCM
+#EXTINF:-1 group-title="FILMES" ,TCM
 http://45.175.61.242:4000/play/a041/index.m3u8
-#EXTINF:-1,TESTE TVRO 2
+#EXTINF:-1 group-title="CANAIS ABERTO" ,TESTE TVRO 2
 http://45.175.61.242:4000/play/a0kx/index.m3u8
-#EXTINF:-1,TLC
+#EXTINF:-1 group-title="FILMES" ,TLC
 http://45.175.61.242:4000/play/a05e/index.m3u8
-#EXTINF:-1,TNT
+#EXTINF:-1 group-title="FILMES" ,TNT
 http://45.175.61.242:4000/play/a04l/index.m3u8
-#EXTINF:-1,TNT Alternativo
+#EXTINF:-1 group-title="FILMES" ,TNT Alternativo
 http://45.175.61.242:4000/play/a080/index.m3u8
 #EXTINF:-1,TNT SØries
 http://45.175.61.242:4000/play/a048/index.m3u8
-#EXTINF:-1,TV Anhanguera GoiÐnia
+#EXTINF:-1 group-title="CANAIS ABERTO" ,TV Anhanguera GoiÐnia
 http://45.175.61.242:4000/play/a0en/index.m3u8
-#EXTINF:-1,TV Aparecida
+#EXTINF:-1 group-title="CANAIS ABERTO" ,TV Aparecida
 http://45.175.61.242:4000/play/a0e7/index.m3u8
-#EXTINF:-1,TV Bahia
+#EXTINF:-1 group-title="CANAIS ABERTO" ,TV Bahia
 http://45.175.61.242:4000/play/a0f6/index.m3u8
-#EXTINF:-1,TV Brasil
+#EXTINF:-1 group-title="CANAIS ABERTO" ,TV Brasil
 http://45.175.61.242:4000/play/a0iy/index.m3u8
-#EXTINF:-1,TV Brasil 2
+#EXTINF:-1 group-title="CANAIS ABERTO" ,TV Brasil 2
 http://45.175.61.242:4000/play/a0iz/index.m3u8
-#EXTINF:-1,TV CAN.Ô NOVA
+#EXTINF:-1 group-title="CANAIS ABERTO" ,TV CAN.Ô NOVA
 http://45.175.61.242:4000/play/a0kc/index.m3u8
-#EXTINF:-1,TV Cultura
+#EXTINF:-1 group-title="CANAIS ABERTO" ,TV Cultura
 http://45.175.61.242:4000/play/a050/index.m3u8
-#EXTINF:-1,TV Cultura
+#EXTINF:-1 group-title="CANAIS ABERTO" ,TV Cultura
 http://45.175.61.242:4000/play/a0b2/index.m3u8
-#EXTINF:-1,TV CÐmara
+#EXTINF:-1 group-title="CANAIS ABERTO" ,TV CÐmara
 http://45.175.61.242:4000/play/a0j1/index.m3u8
-#EXTINF:-1,TV EVANGELIZAR
+#EXTINF:-1 group-title="CANAIS ABERTO" ,TV EVANGELIZAR
 http://45.175.61.242:4000/play/100/index.m3u8
-#EXTINF:-1,TV Escola
+#EXTINF:-1 group-title="CANAIS ABERTO" ,TV Escola
 http://45.175.61.242:4000/play/a0dv/index.m3u8
-#EXTINF:-1,TV GAZETA - C.SPER L.BERO
+#EXTINF:-1 group-title="CANAIS ABERTO" ,TV GAZETA - C.SPER L.BERO
 http://45.175.61.242:4000/play/a0jf/index.m3u8
-#EXTINF:-1,TV HORIZONTE
+#EXTINF:-1 group-title="CANAIS ABERTO" ,TV HORIZONTE
 http://45.175.61.242:4000/play/a0l5/index.m3u8
-#EXTINF:-1,TV JustiĿa
+#EXTINF:-1 group-title="CANAIS ABERTO" ,TV JustiĿa
 http://45.175.61.242:4000/play/a0iv/index.m3u8
-#EXTINF:-1,TV JustiĿa
+#EXTINF:-1 group-title="CANAIS ABERTO" ,TV JustiĿa
 http://45.175.61.242:4000/play/a04a/index.m3u8
-#EXTINF:-1,TV Liberal BelØm
+#EXTINF:-1 group-title="CANAIS ABERTO" ,TV Liberal BelØm
 http://45.175.61.242:4000/play/a0f8/index.m3u8
-#EXTINF:-1,TV Novo Tempo
+#EXTINF:-1 group-title="CANAIS ABERTO" ,TV Novo Tempo
 http://45.175.61.242:4000/play/a0ee/index.m3u8
-#EXTINF:-1,TV RECORD NACIONAL
+#EXTINF:-1 group-title="CANAIS ABERTO" ,TV RECORD NACIONAL
 http://45.175.61.242:4000/play/a0k8/index.m3u8
-#EXTINF:-1,TV RÆ tim bum
+#EXTINF:-1 group-title="CANAIS ABERTO" ,TV RÆ tim bum
 http://45.175.61.242:4000/play/a0dn/index.m3u8
-#EXTINF:-1,TV Senado
+#EXTINF:-1 group-title="CANAIS ABERTO" ,TV Senado
 http://45.175.61.242:4000/play/a0iw/index.m3u8
-#EXTINF:-1,TV Tem Bauru
+#EXTINF:-1 group-title="CANAIS ABERTO" ,TV Tem Bauru
 http://45.175.61.242:4000/play/a0er/index.m3u8
-#EXTINF:-1,TV Tem Sorocaba
+#EXTINF:-1 group-title="CANAIS ABERTO" ,TV Tem Sorocaba
 http://45.175.61.242:4000/play/a0eq/index.m3u8
-#EXTINF:-1,TV Tribuna Santos
+#EXTINF:-1 group-title="CANAIS ABERTO" ,TV Tribuna Santos
 http://45.175.61.242:4000/play/a0ep/index.m3u8
-#EXTINF:-1,TV VERDADE
+#EXTINF:-1 group-title="CANAIS ABERTO" ,TV VERDADE
 http://45.175.61.242:4000/play/a0jb/index.m3u8
-#EXTINF:-1,TV Verdes Mares Fortaleza
+#EXTINF:-1 group-title="CANAIS ABERTO" ,TV Verdes Mares Fortaleza
 http://45.175.61.242:4000/play/a0f5/index.m3u8
-#EXTINF:-1,TV WA
+#EXTINF:-1 group-title="CANAIS ABERTO" ,TV WA
 http://45.175.61.242:4000/play/a0e6/index.m3u8
-#EXTINF:-1,TV5 Monde
+#EXTINF:-1 group-title="CANAIS ABERTO" ,TV5 Monde
 http://45.175.61.242:4000/play/a04x/index.m3u8
-#EXTINF:-1,TVE
+#EXTINF:-1 group-title="CANAIS ABERTO" ,TVE
 http://45.175.61.242:4000/play/a05y/index.m3u8
 #EXTINF:-1,Telecine Action
 http://45.175.61.242:4000/play/a05u/index.m3u8
@@ -559,21 +553,21 @@ http://45.175.61.242:4000/play/a03z/index.m3u8
 http://45.175.61.242:4000/play/a071/index.m3u8
 #EXTINF:-1,Telecine Touch
 http://45.175.61.242:4000/play/a072/index.m3u8
-#EXTINF:-1,Terra Viva
+#EXTINF:-1 group-title="CANAIS ABERTO" ,Terra Viva
 http://45.175.61.242:4000/play/a0do/index.m3u8
-#EXTINF:-1,Terra Viva HD
+#EXTINF:-1 group-title="CANAIS ABERTO" ,Terra Viva HD
 http://45.175.61.242:4000/play/a0j5/index.m3u8
 #EXTINF:-1,The History Channel
 http://45.175.61.242:4000/play/a0e5/index.m3u8
 #EXTINF:-1,Tooncast
 http://45.175.61.242:4000/play/a078/index.m3u8
-#EXTINF:-1,TruTV
+#EXTINF:-1 group-title="FILMES" ,TruTV
 http://45.175.61.242:4000/play/a08l/index.m3u8
-#EXTINF:-1,Universal TV
+#EXTINF:-1 group-title="FILMES" ,Universal TV
 http://45.175.61.242:4000/play/a04w/index.m3u8
-#EXTINF:-1,Viva
+#EXTINF:-1 group-title="CANAIS ABERTO" ,Viva
 http://45.175.61.242:4000/play/a07k/index.m3u8
-#EXTINF:-1,Warner Channel
+#EXTINF:-1 group-title="FILMES" ,Warner Channel
 http://45.175.61.242:4000/play/a07q/index.m3u8
-#EXTINF:-1,Woohoo
+#EXTINF:-1 group-title="FILMES" ,Woohoo
 http://45.175.61.242:4000/play/a0iu/index.m3u8
