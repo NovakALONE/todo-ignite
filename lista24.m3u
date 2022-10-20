@@ -1,273 +1,272 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/FledsonChagas/IPTV/main/EPG.xml"
-#EXTINF:0 tvg-id="ext" group-title="Brazil",-= Brazil =-
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/12150
-#EXTINF:0 tvg-id="Ae.br" group-title="Brazil",A&E HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46500
-#EXTINF:0 tvg-id="Amc.br" group-title="Brazil",AMC HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46501
-#EXTINF:0 tvg-id="Animalplanet.br" group-title="Brazil",Animal Planet HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46502
-#EXTINF:0 tvg-id="Axn.br" group-title="Brazil",AXN HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46504
-#EXTINF:0 tvg-id="Bandsports.br" group-title="Brazil",Band Sports HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46507
-#EXTINF:0 tvg-id="Boomeranghd.br" group-title="Brazil",Boomerang HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46508
-#EXTINF:0 tvg-id="Canalbrasil.br" group-title="Brazil",Canal Brasil HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46509
-#EXTINF:0 tvg-id="Cartoonnetwork.br" group-title="Brazil",Cartoon HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46510
-#EXTINF:0 tvg-id="ext" group-title="Brazil",Cartoon 4K UHD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/51181
-#EXTINF:0 tvg-id="Cinemax.br" group-title="Brazil",Cinemax HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46511
-#EXTINF:0 tvg-id="ext" group-title="Brazil",Cnn Internacional HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46512
-#EXTINF:0 tvg-id="Combate.br" group-title="Brazil",Combate HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46513
-#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Brazil",Comedy Central HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46514
-#EXTINF:0 tvg-id="ext" group-title="Brazil",Cultura HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46515
-#EXTINF:0 tvg-id="ext" group-title="Brazil",Discovery Civilization HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46516
-#EXTINF:0 tvg-id="ext" group-title="Brazil",Discovery H H HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46517
-#EXTINF:0 tvg-id="Discovery.br" group-title="Brazil",Discovery HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46518
-#EXTINF:0 tvg-id="Discoverykids.br" group-title="Brazil",Discovery Kids HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46519
-#EXTINF:0 tvg-id="DiscoveryScience.br" group-title="Brazil",Discovery Science HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46520
-#EXTINF:0 tvg-id="HDTheater.mx" group-title="Brazil",Discovery Theather HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46521
-#EXTINF:0 tvg-id="Discturbohd.br" group-title="Brazil",Discovery Turbo HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46522
-#EXTINF:0 tvg-id="Discoveryworld.br" group-title="Brazil",Discovery World HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46523
-#EXTINF:0 tvg-id="Disneychannel.br" group-title="Brazil",Disney Channel HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46524
-#EXTINF:0 tvg-id="ext" group-title="Brazil",Discovery Channel 4K UHD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/51183
-#EXTINF:0 tvg-id="DisneyXD.uk" group-title="Brazil",Disney XD HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46526
-#EXTINF:0 tvg-id="Disneyjrhd.br" group-title="Brazil",Disney Junior HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46525
-#EXTINF:0 tvg-id="E.br" group-title="Brazil",E! HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46527
-#EXTINF:0 tvg-id="Espn.br" group-title="Brazil",Espn HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46528
-#EXTINF:0 tvg-id="ESPN2.br" group-title="Brazil",Espn 2 HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/82884
-#EXTINF:0 tvg-id="ext" group-title="Brazil",Espn Br HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46529
-#EXTINF:0 tvg-id="Foodnetworkhd.br" group-title="Brazil",Food Network HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46534
-#EXTINF:0 tvg-id="Fox.br" group-title="Brazil",Fox HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46535
-#EXTINF:0 tvg-id="fox-life-hd" group-title="Brazil",Fox Life HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46536
-#EXTINF:0 tvg-id="Foxsports.br" group-title="Brazil",Fox Sports HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46540
-#EXTINF:0 tvg-id="Foxsports2.br" group-title="Brazil",Fox Sports 2 HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46539
-#EXTINF:0 tvg-id="Globonewshd.br" group-title="Brazil",Globo News HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46543
-#EXTINF:0 tvg-id="Fx.br" group-title="Brazil",Fx HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46542
-#EXTINF:0 tvg-id="Globorj.br" group-title="Brazil",Globo RJ FHD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46541
-#EXTINF:0 tvg-id="Gnthd.br" group-title="Brazil",Gnt HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46547
-#EXTINF:0 tvg-id="ext" group-title="Brazil",Globo TV HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46546
-#EXTINF:0 tvg-id="ext" group-title="Brazil",Globo 4K UHD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/51187
-#EXTINF:0 tvg-id="ext" group-title="Brazil",GLOBO EPTV CAMPINAS HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/355923
-#EXTINF:0 tvg-id="ext" group-title="Brazil",Globo RPC Ponta Grossa FHD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/355922
-#EXTINF:0 tvg-id="ext" group-title="Brazil",Globo RPC Maringa FHD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/355921
-#EXTINF:0 tvg-id="ext" group-title="Brazil",Globo RPC Foz do Iguaçu FHD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/355920
-#EXTINF:0 tvg-id="ext" group-title="Brazil",Globo RPC Curitiba FHD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/355919
-#EXTINF:0 tvg-id="Globorj.br" group-title="Brazil",Globo RJ FHD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/355918
-#EXTINF:0 tvg-id="ext" group-title="Brazil",Globo Rede Amazonica FHD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/355917
-#EXTINF:0 tvg-id="ext" group-title="Brazil",Globo RBS TV Santa Maria FHD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/355916
-#EXTINF:0 tvg-id="ext" group-title="Brazil",Globo RBS TV POA FHD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/355915
-#EXTINF:0 tvg-id="ext" group-title="Brazil",Globo RBS TV Pelotas FHD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/355914
-#EXTINF:0 tvg-id="ext" group-title="Brazil",Globo RBS TV Caxias do Sul FHD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/355913
-#EXTINF:0 tvg-id="ext" group-title="Brazil",Globo RBS TV 4K
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/355912
-#EXTINF:0 tvg-id="ext" group-title="Brazil",Globo NSC TV Joinville FHD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/355911
-#EXTINF:0 tvg-id="ext" group-title="Brazil",Globo NSC TV Criciuma FHD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/355910
-#EXTINF:0 tvg-id="ext" group-title="Brazil",Globo NSC TV Chapeco FHD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/355909
-#EXTINF:0 tvg-id="ext" group-title="Brazil",Globo NSC TV Blumenau FHD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/355908
-#EXTINF:0 tvg-id="ext" group-title="Brazil",Globo NSC Florianopolis FHD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/355907
-#EXTINF:0 tvg-id="ext" group-title="Brazil",Globo NSC Centro Oeste FHD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/355906
-#EXTINF:0 tvg-id="GloboNow.pt" group-title="Brazil",Globo NOW
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/355905
-#EXTINF:0 tvg-id="ext" group-title="Brazil",Globo Minas FHD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/355904
-#EXTINF:0 tvg-id="ext" group-title="Brazil",Globo Inter TV Grande Minas FHD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/355903
-#EXTINF:0 tvg-id="ext" group-title="Brazil",Globo Inter TV Cabugi FHD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/355902
-#EXTINF:0 tvg-id="ext" group-title="Brazil",Globo Inter TV Alto Litoral FHD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/355901
-#EXTINF:0 tvg-id="ext" group-title="Brazil",Globo Inter PT FHD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/355900
-#EXTINF:0 tvg-id="ext" group-title="Brazil",Globo Inter Cabugi HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/355899
-#EXTINF:0 tvg-id="ext" group-title="Brazil",Globo EPTV São Carlos
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/355898
-#EXTINF:0 tvg-id="ext" group-title="Brazil",Globo EPTV Sul de Minas FHD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/355897
-#EXTINF:0 tvg-id="GloboEPTVRibeiraoPreto.br" group-title="Brazil",Globo EPTV Ribeirão Preto
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/355896
-#EXTINF:0 tvg-id="ext" group-title="Brazil",Globo EPTV Campinas FHD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/355895
-#EXTINF:0 tvg-id="ext" group-title="Brazil",Globo Centro America FHD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/355894
-#EXTINF:0 tvg-id="ext" group-title="Brazil",Globo Amazônica HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/355893
-#EXTINF:0 tvg-id="ext" group-title="Brazil",Globo Amazonica Manaus HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/355892
-#EXTINF:0 tvg-id="ext" group-title="Brazil",GLOBO PT HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/355891
-#EXTINF:0 tvg-id="Globonewshd.br" group-title="Brazil",GLOBO NEWS HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/355890
-#EXTINF:0 tvg-id="ext" group-title="Brazil",Globo Pt HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46545
-#EXTINF:0 tvg-id="Studiouniversal.br" group-title="Brazil",Studio Universal HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46598
-#EXTINF:0 tvg-id="ext" group-title="Brazil",Globo Eptv Campinas HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46537
-#EXTINF:0 tvg-id="Sportv.br" group-title="Brazil",Sportv HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46597
-#EXTINF:0 tvg-id="Sportv2.br" group-title="Brazil",Sportv 2 HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46596
-#EXTINF:0 tvg-id="Spacehd.br" group-title="Brazil",Space HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46594
-#EXTINF:0 tvg-id="Sony.br" group-title="Brazil",Sony
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46593
-#EXTINF:0 tvg-id="Sony.br" group-title="Brazil",Sony HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46592
-#EXTINF:0 tvg-id="Shoptime.br" group-title="Brazil",Shoptime
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46590
-#EXTINF:0 tvg-id="Sbt.br" group-title="Brazil",Sbt HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46589
-#EXTINF:0 tvg-id="Redevida.br" group-title="Brazil",Rede Vida
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46587
-#EXTINF:0 tvg-id="Redetv.br" group-title="Brazil",Rede Tv HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46586
-#EXTINF:0 tvg-id="ext" group-title="Brazil",Rede New
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46585
-#EXTINF:0 tvg-id="ext" group-title="Brazil",Record News HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46583
-#EXTINF:0 tvg-id="Rederecord.br" group-title="Brazil",Record HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46582
-#EXTINF:0 tvg-id="ext" group-title="Brazil",Ra Tim Bum HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46581
-#EXTINF:0 tvg-id="Premiereclubes.br" group-title="Brazil",Premiere Clubes HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46579
-#EXTINF:0 tvg-id="Premiere2.br" group-title="Brazil",Premiere 2 HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46573
-#EXTINF:0 tvg-id="Premiere3.br" group-title="Brazil",Premiere 3 HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46574
-#EXTINF:0 tvg-id="Premiere4.br" group-title="Brazil",Premiere 4 HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46575
-#EXTINF:0 tvg-id="ext" group-title="Brazil",Premiere 5 HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46576
-#EXTINF:0 tvg-id="Premiere6.br" group-title="Brazil",Premiere 6 HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46577
-#EXTINF:0 tvg-id="Premiere7.br" group-title="Brazil",Premiere 7 HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46578
-#EXTINF:0 tvg-id="Off.br" group-title="Brazil",Off HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46570
-#EXTINF:0 tvg-id="Paramounthd.br" group-title="Brazil",Paramount HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46571
-#EXTINF:0 tvg-id="Nickelodeon.br" group-title="Brazil",Nick HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46568
-#EXTINF:0 tvg-id="Natgeowildhd.br" group-title="Brazil",Nat Geo Wild HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46567
-#EXTINF:0 tvg-id="ext" group-title="Brazil",Nat Geo Kids HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46566
-#EXTINF:0 tvg-id="MTVLiveHD.eu" group-title="Brazil",Mtv Live HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46563
-#EXTINF:0 tvg-id="Mtv.br" group-title="Brazil",Mtv HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46562
-#EXTINF:0 tvg-id="Megapix.br" group-title="Brazil",Megapix HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46561
-#EXTINF:0 tvg-id="ext" group-title="Brazil",Megapix 4K UHD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/51188
-#EXTINF:0 tvg-id="Multishow.br" group-title="Brazil",Multishow HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46564
-#EXTINF:0 tvg-id="Maxup.br" group-title="Brazil",Max Up HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46560
-#EXTINF:0 tvg-id="Maxprime.br" group-title="Brazil",Max Prime HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46559
-#EXTINF:0 tvg-id="Max.br" group-title="Brazil",Max HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46558
-#EXTINF:0 tvg-id="Lifetime.br" group-title="Brazil",Lifetime HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46556
-#EXTINF:0 tvg-id="Investigacaodiscoveryid.br" group-title="Brazil",Id HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46555
-#EXTINF:0 tvg-id="Historychannel.br" group-title="Brazil",History HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46554
-#EXTINF:0 tvg-id="Hbosignature.br" group-title="Brazil",HBO Signature HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46552
-#EXTINF:0 tvg-id="Hboplus.br" group-title="Brazil",HBO Plus HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46551
-#EXTINF:0 tvg-id="Hbo.br" group-title="Brazil",HBO HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46550
-#EXTINF:0 tvg-id="Hbofamily.br" group-title="Brazil",HBO Family HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46549
-#EXTINF:0 tvg-id="ext" group-title="Brazil",Zoomoo HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46625
-#EXTINF:0 tvg-id="ext" group-title="Brazil",Woohoo HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46624
-#EXTINF:0 tvg-id="Warnerchannel.br" group-title="Brazil",Warner Channel HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46623
-#EXTINF:0 tvg-id="Viva.br" group-title="Brazil",Viva HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46622
-#EXTINF:0 tvg-id="Universalchannelhd.br" group-title="Brazil",Universal Channel HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46619
-#EXTINF:0 tvg-id="Tvbrasil.br" group-title="Brazil",TV Brasil HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46612
-#EXTINF:0 tvg-id="Tooncast.ar" group-title="Brazil",Tooncast HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46610
-#EXTINF:0 tvg-id="Tnt.br" group-title="Brazil",TNT HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46609
-#EXTINF:0 tvg-id="ext" group-title="Brazil",TNT Series 4K UHD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/51196
-#EXTINF:0 tvg-id="Tlc.br" group-title="Brazil",TLC HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46608
-#EXTINF:0 tvg-id="Tctouch.br" group-title="Brazil",Telecine Touch HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46607
-#EXTINF:0 tvg-id="Tcpremium.br" group-title="Brazil",Telecine Premium HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46606
-#EXTINF:0 tvg-id="Tcfun.br" group-title="Brazil",Telecine Fun HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46604
-#EXTINF:0 tvg-id="Tccult.br" group-title="Brazil",Telecine Cult HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46603
-#EXTINF:0 tvg-id="Tcaction.br" group-title="Brazil",Telecine Action HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46602
-#EXTINF:0 tvg-id="TCM.uk" group-title="Brazil",TCM HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46601
-#EXTINF:0 tvg-id="Syfy.br" group-title="Brazil",Syfy HD
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46599
+#EXTM3U
+#EXTINF:-1,A&E
+http://200.6.86.128:12000/play/a0n9
+#EXTINF:-1,AMC
+http://200.6.86.128:12000/play/a0k8
+#EXTINF:-1,AXN
+http://200.6.86.128:12000/play/a0m7
+#EXTINF:-1,Animal Planet
+http://200.6.86.128:12000/play/a0mt
+#EXTINF:-1,Arte 1
+http://200.6.86.128:12000/play/a0mb
+#EXTINF:-1,BIS
+http://200.6.86.128:12000/play/a0pf
+#EXTINF:-1,Band News
+http://200.6.86.128:12000/play/a0lq
+#EXTINF:-1,Band Sports
+http://200.6.86.128:12000/play/a0lf
+#EXTINF:-1,Bandeirantes
+http://200.6.86.128:12000/play/a0of
+#EXTINF:-1,CGTN
+http://200.6.86.128:12000/play/a0pd
+#EXTINF:-1,CGTN HD
+httEXTM3U
+#EXTINF:-1,A&E
+http://200.6.86.128:12000/play/a0n9
+#EXTINF:-1,AMC
+http://200.6.86.128:12000/play/a0k8
+#EXTINF:-1,AXN
+http://200.6.86.128:12000/play/a0m7
+#EXTINF:-1,Animal Planet
+http://200.6.86.128:12000/play/a0mt
+#EXTINF:-1,Arte 1
+http://200.6.86.128:12000/play/a0mb
+#EXTINF:-1,BIS
+http://200.6.86.128:12000/play/a0pf
+#EXTINF:-1,Band News
+http://200.6.86.128:12000/play/a0lq
+#EXTINF:-1,Band Sports
+http://200.6.86.128:12000/play/a0lf
+#EXTINF:-1,Bandeirantes
+http://200.6.86.128:12000/play/a0of
+#EXTINF:-1,CGTN
+http://200.6.86.128:12000/play/a0pd
+#EXTINF:-1,CGTN HD
+http://200.6.86.128:12000/play/a0pq
+#EXTINF:-1,CINECANALp://200.6.86.128:12000/play/a0pq
+#EXTINF:-1,CINECANAL
+http://200.6.86.128:12000/play/a0p6
+#EXTINF:-1,CNN Brasil
+http://200.6.86.128:12000/play/a0kq
+#EXTINF:-1,CNT
+http://200.6.86.128:12000/play/a0k6
+#EXTINF:-1,CONMEBOL TV 1
+http://200.6.86.128:12000/play/a0k9
+#EXTINF:-1,CONMEBOL TV 2
+http://200.6.86.128:12000/play/a0mg
+#EXTINF:-1,CONMEBOL TV 3
+http://200.6.86.128:12000/play/a0n0
+#EXTINF:-1,CONMEBOL TV 4
+http://200.6.86.128:12000/play/a0n1
+#EXTINF:-1,Canal Brasil
+http://200.6.86.128:12000/play/a0jy
+#EXTINF:-1,Canal Sony
+http://200.6.86.128:12000/play/a0li
+#EXTINF:-1,Cartoon Network
+http://200.6.86.128:12000/play/a0kh
+#EXTINF:-1,Cartoonito
+http://200.6.86.128:12000/play/a0nb
+#EXTINF:-1,Cinemax
+http://200.6.86.128:12000/play/a0nz
+#EXTINF:-1,Combate
+http://200.6.86.128:12000/play/a0n2
+#EXTINF:-1,Comedy Central
+http://200.6.86.128:12000/play/a0ms
+#EXTINF:-1,Curta!
+http://200.6.86.128:12000/play/a0mv
+#EXTINF:-1,Discovery Channel
+http://200.6.86.128:12000/play/a0k5
+#EXTINF:-1,Discovery H&H
+http://200.6.86.128:12000/play/a0ld
+#EXTINF:-1,Discovery Kids
+http://200.6.86.128:12000/play/a0o4
+#EXTINF:-1,Discovery Turbo
+http://200.6.86.128:12000/play/a0lm
+#EXTINF:-1,Disney
+http://200.6.86.128:12000/play/a0nd
+#EXTINF:-1,E!
+http://200.6.86.128:12000/play/a0mm
+#EXTINF:-1,ESPN
+http://200.6.86.128:12000/play/a0le
+#EXTINF:-1,ESPN 2
+http://200.6.86.128:12000/play/a0m1
+#EXTINF:-1,ESPN 3
+http://200.6.86.128:12000/play/a0p7
+#EXTINF:-1,ESPN 4
+http://200.6.86.128:12000/play/a0ke
+#EXTINF:-1,FX
+http://200.6.86.128:12000/play/a0lh
+#EXTINF:-1,Film & Arts
+http://200.6.86.128:12000/play/a0pg
+#EXTINF:-1,Fish TV
+http://200.6.86.128:12000/play/a0n7
+#EXTINF:-1,Food Network
+http://200.6.86.128:12000/play/a0js
+#EXTINF:-1,Fox Sports 2
+http://200.6.86.128:12000/play/a0ly
+#EXTINF:-1,Futura
+http://200.6.86.128:12000/play/a0og
+#EXTINF:-1,GNT
+http://200.6.86.128:12000/play/a0n6
+#EXTINF:-1,Globo RJ
+http://200.6.86.128:12000/play/a0l5
+#EXTINF:-1,Globo SP
+http://200.6.86.128:12000/play/a0qr
+#EXTINF:-1,GloboNews
+http://200.6.86.128:12000/play/a0m0
+#EXTINF:-1,Gloob
+http://200.6.86.128:12000/play/a0k2
+#EXTINF:-1,Gloobinho
+http://200.6.86.128:12000/play/a0o3
+#EXTINF:-1,Gospel
+http://200.6.86.128:12000/play/a0qn
+#EXTINF:-1,HBO
+http://200.6.86.128:12000/play/a0jz
+#EXTINF:-1,HBO Family
+http://200.6.86.128:12000/play/a0n8
+#EXTINF:-1,HBO MUNDI
+http://200.6.86.128:12000/play/a0mp
+#EXTINF:-1,HBO POP
+http://200.6.86.128:12000/play/a0p9
+#EXTINF:-1,HBO Signature
+http://200.6.86.128:12000/play/a0m6
+#EXTINF:-1,HBO XTREME
+http://200.6.86.128:12000/play/a0o1
+#EXTINF:-1,HBO+
+http://200.6.86.128:12000/play/a0p8
+#EXTINF:-1,HBO2
+http://200.6.86.128:12000/play/a0lg
+#EXTINF:-1,History 2
+http://200.6.86.128:12000/play/a0lk
+#EXTINF:-1,I-SAT
+http://200.6.86.128:12000/play/a0nj
+#EXTINF:-1,ID - InvestigaĿªo Discovery
+http://200.6.86.128:12000/play/a0lo
+#EXTINF:-1,IDEAL TV
+http://200.6.86.128:12000/play/a0ki
+#EXTINF:-1,Kids
+http://200.6.86.128:12000/play/a0qp
+#EXTINF:-1,Lifetime
+http://200.6.86.128:12000/play/a0pa
+#EXTINF:-1,MTV
+http://200.6.86.128:12000/play/a0p4
+#EXTINF:-1,MegaPix
+http://200.6.86.128:12000/play/a0o0
+#EXTINF:-1,Modo Viagem
+http://200.6.86.128:12000/play/a0pe
+#EXTINF:-1,Multishow
+http://200.6.86.128:12000/play/a0ml
+#EXTINF:-1,Music Box Brazil
+http://200.6.86.128:12000/play/a0kj
+#EXTINF:-1,NHK
+http://200.6.86.128:12000/play/a0nk
+#EXTINF:-1,National Geographic
+http://200.6.86.128:12000/play/a0ln
+#EXTINF:-1,Nick Jr
+http://200.6.86.128:12000/play/a0ne
+#EXTINF:-1,Nickelodeon
+http://200.6.86.128:12000/play/a0ll
+#EXTINF:-1,OFF
+http://200.6.86.128:12000/play/a0jv
+#EXTINF:-1,Pai Eterno
+http://200.6.86.128:12000/play/a0pc
+#EXTINF:-1,Paramount Network
+http://200.6.86.128:12000/play/a0ju
+#EXTINF:-1,Premiere 2
+http://200.6.86.128:12000/play/a0lr
+#EXTINF:-1,Premiere 3
+http://200.6.86.128:12000/play/a0n3
+#EXTINF:-1,Premiere 4
+http://200.6.86.128:12000/play/a0ns
+#EXTINF:-1,Premiere 5
+http://200.6.86.128:12000/play/a0mf
+#EXTINF:-1,Premiere 6
+http://200.6.86.128:12000/play/a0pj
+#EXTINF:-1,Premiere 7
+http://200.6.86.128:12000/play/a0po
+#EXTINF:-1,Premiere 8
+http://200.6.86.128:12000/play/a0ka
+#EXTINF:-1,Premiere Clubes
+http://200.6.86.128:12000/play/a0lt
+#EXTINF:-1,Prime Box Brazil
+http://200.6.86.128:12000/play/a0m5
+#EXTINF:-1,RECORDTV
+http://200.6.86.128:12000/play/a0mc
+#EXTINF:-1,RIT
+http://200.6.86.128:12000/play/a0nh
+#EXTINF:-1,Record News
+http://200.6.86.128:12000/play/a0k4
+#EXTINF:-1,Rede Brasil
+http://200.6.86.128:12000/play/a0ma
+#EXTINF:-1,Rede TV
+http://200.6.86.128:12000/play/a0o8
+#EXTINF:-1,SBT
+http://200.6.86.128:12000/play/a0lu
+#EXTINF:-1,STAR CHANNEL
+http://200.6.86.128:12000/play/a0kf
+#EXTINF:-1,Space
+http://200.6.86.128:12000/play/a0mn
+#EXTINF:-1,SporTV
+http://200.6.86.128:12000/play/a0jt
+#EXTINF:-1,SporTV 2
+http://200.6.86.128:12000/play/a0lz
+#EXTINF:-1,SporTV 3
+http://200.6.86.128:12000/play/a0ny
+#EXTINF:-1,SporTV Alternativo
+http://200.6.86.128:12000/play/a0oe
+#EXTINF:-1,Studio Universal
+http://200.6.86.128:12000/play/a0mr
+#EXTINF:-1,Syfy
+http://200.6.86.128:12000/play/a0o2
+#EXTINF:-1,TBS
+http://200.6.86.128:12000/play/a0na
+#EXTINF:-1,TCM
+http://200.6.86.128:12000/play/a0mq
+#EXTINF:-1,TLC
+http://200.6.86.128:12000/play/a0lp
+#EXTINF:-1,TNT
+http://200.6.86.128:12000/play/a0m2
+#EXTINF:-1,TNT Séries
+http://200.6.86.128:12000/play/a0mu
+#EXTINF:-1,TV Brasil
+http://200.6.86.128:12000/play/a0mz
+#EXTINF:-1,TV Brasil 2
+http://200.6.86.128:12000/play/a0n4
+#EXTINF:-1,TV Cultura
+http://200.6.86.128:12000/play/a0mi
+#EXTINF:-1,TV Novo Tempo
+http://200.6.86.128:12000/play/a0oh
+#EXTINF:-1,TVE
+http://200.6.86.128:12000/play/a0kk
+#EXTINF:-1,Telecine Action
+http://200.6.86.128:12000/play/a0kg
+#EXTINF:-1,Telecine Cult
+http://200.6.86.128:12000/play/a0m3
+#EXTINF:-1,Telecine Fun
+http://200.6.86.128:12000/play/a0pp
+#EXTINF:-1,Telecine Pipoca
+http://200.6.86.128:12000/play/a0mo
+#EXTINF:-1,Telecine Premium
+http://200.6.86.128:12000/play/a0jw
+#EXTINF:-1,Telecine Touch
+http://200.6.86.128:12000/play/a0jx
+#EXTINF:-1,Terra Viva
+http://200.6.86.128:12000/play/a0ng
+#EXTINF:-1,History Channel
+http://200.6.86.128:12000/play/a0o5
+#EXTINF:-1,Tooncast
+http://200.6.86.128:12000/play/a0k3
+#EXTINF:-1,Trilhas Sonoras
+http://200.6.86.128:12000/play/a0q1
+#EXTINF:-1,TruTV
+http://200.6.86.128:12000/play/a0k0
+#EXTINF:-1,Universal TV
+http://200.6.86.128:12000/play/a0md
+#EXTINF:-1,Viva
+http://200.6.86.128:12000/play/a0p5
+#EXTINF:-1,Warner Channel
+http://200.6.86.128:12000/play/a0pb
+#EXTINF:-1,Woohoo
+http://200.6.86.128:12000/play/a0lj
+#EXTINF:-1,ZooMoo
+http://200.6.86.128:12000/play/a0k7
